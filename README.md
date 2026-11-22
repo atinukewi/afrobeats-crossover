@@ -1,7 +1,5 @@
 # What makes Afrobeats cross over globally?
 
-[![CI](https://github.com/atinukewi/afrobeats-crossover/actions/workflows/ci.yml/badge.svg)](https://github.com/atinukewi/afrobeats-crossover/actions)
-
 How do Afrobeats songs spread from Lagos to the UK, the US and beyond? This project treats a song's spread as a **time-to-event problem** and asks which factors, especially **collaborations**, **playlist placement** and **release timing**, are associated with crossing over faster.
 
 > **Status: skeleton complete, real data collection in progress.** The pipeline runs end to end on *synthetic* data with a planted effect, which validates the methods. No findings about real music are reported until real data has been analysed.
