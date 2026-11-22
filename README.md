@@ -64,4 +64,4 @@ Data sources, licences and access limits are documented in [`docs/DATA_SOURCES.m
 
 ## Licence
 
-MIT, see [`LICENSE`](LICENSE).
+MIT, see [`LICENSE`](LICENSE.md).
